@@ -1,2 +1,0 @@
-# EHMS
-Health care management 
